@@ -17,6 +17,7 @@ Java を中心に、業務系 Web システムの開発をしています。
 |---|---|
 | [document-ocr-batch](https://github.com/takicoYuki/document-ocr-batch) | 書類登録 API と外部 OCR 連携バッチ（Spring Boot / Spring Batch） |
 | [playwright-e2e-sample](https://github.com/takicoYuki/playwright-e2e-sample) | Playwright による E2E・API テストのサンプル |
+| [claude-code-agents](https://github.com/takicoYuki/claude-code-agents) | Claude Code のサブエージェントで作った作業自動化の構成集（動画制作パイプラインなど） |
 | [junit-testdata-generator](https://github.com/takicoYuki/junit-testdata-generator) | JUnit 用のテストデータを生成するツール |
 
 ## 技術
