@@ -18,6 +18,7 @@ Java を中心に、業務系 Web システムの開発をしています。
 | [document-ocr-batch](https://github.com/takicoYuki/document-ocr-batch) | 書類登録 API と外部 OCR 連携バッチ（Spring Boot / Spring Batch） |
 | [mini-web-framework](https://github.com/takicoYuki/mini-web-framework) | Spring 風の DI コンテナと Web フレームワークを JDK 標準機能だけで自作 |
 | [parallel-downloader](https://github.com/takicoYuki/parallel-downloader) | URL リストのファイルをマルチスレッドで一括ダウンロードする CLI（リトライ・途中再開） |
+| [javadoc-classifier](https://github.com/takicoYuki/javadoc-classifier) | Java の Javadoc を分類・集計し、書き漏れを報告する Python 製ツール（デザインパターンの実践） |
 | [playwright-e2e-sample](https://github.com/takicoYuki/playwright-e2e-sample) | Playwright による E2E・API テストのサンプル |
 | [claude-code-agents](https://github.com/takicoYuki/claude-code-agents) | Claude Code のサブエージェントで作った作業自動化の構成集 |
 | [windows-batch-tools](https://github.com/takicoYuki/windows-batch-tools) | Windows 標準コマンドだけで動く作業用バッチ（CAB 分割・結合、バックアップなど） |
