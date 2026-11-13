@@ -19,9 +19,12 @@ Java を中心に、業務系 Web システムの開発をしています。
 | [mini-web-framework](https://github.com/takicoYuki/mini-web-framework) | Spring 風の DI コンテナと Web フレームワークを JDK 標準機能だけで自作 |
 | [parallel-downloader](https://github.com/takicoYuki/parallel-downloader) | URL リストのファイルをマルチスレッドで一括ダウンロードする CLI（リトライ・途中再開） |
 | [javadoc-classifier](https://github.com/takicoYuki/javadoc-classifier) | Java の Javadoc を分類・集計し、書き漏れを報告する Python 製ツール（デザインパターンの実践） |
+| [python-design-patterns](https://github.com/takicoYuki/python-design-patterns) | GoF の 23 のデザインパターンを身近な題材で書いた Python のサンプル集 |
 | [playwright-e2e-sample](https://github.com/takicoYuki/playwright-e2e-sample) | Playwright による E2E・API テストのサンプル |
+| [playwright-scraper](https://github.com/takicoYuki/playwright-scraper) | Playwright でログインが必要なページから一覧を集め、CSV / JSON に保存するスクレイパー |
 | [claude-code-agents](https://github.com/takicoYuki/claude-code-agents) | Claude Code のサブエージェントで作った作業自動化の構成集 |
 | [windows-batch-tools](https://github.com/takicoYuki/windows-batch-tools) | Windows 標準コマンドだけで動く作業用バッチ（CAB 分割・結合、バックアップなど） |
+| [pixabay-image-search](https://github.com/takicoYuki/pixabay-image-search) | Pixabay API を使った画像検索アプリ（React + Vite） |
 | [junit-testdata-generator](https://github.com/takicoYuki/junit-testdata-generator) | JUnit 用のテストデータを生成するツール |
 
 ## 技術
